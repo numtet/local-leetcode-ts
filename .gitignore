@@ -1,0 +1,9 @@
+problems/p*
+
+node_modules
+
+.env
+.envrc
+
+.idea
+.vscode
